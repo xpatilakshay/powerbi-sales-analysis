@@ -72,7 +72,17 @@ Design a clean, interactive Power BI dashboard using sales data to:
 
 ## 📸 Screenshots
 
-*(Include screenshots of your dashboard pages here if needed)*
+### Sales Overview 
+![Sales Overview](https://github.com/xpatilakshay/powerbi-sales-analysis/blob/eba5073120c0a9be86ddde176db6ac0ad8c272a5/powerbi-sales-analysis_Task-4/Screenshots/Sales%20overview.png)
+
+### Regional Analysis 
+![Regional Analysis](https://github.com/xpatilakshay/powerbi-sales-analysis/blob/eba5073120c0a9be86ddde176db6ac0ad8c272a5/powerbi-sales-analysis_Task-4/Screenshots/Regional%20Analysis.png)
+
+### Product Performance 
+![Product Performance](https://github.com/xpatilakshay/powerbi-sales-analysis/blob/eba5073120c0a9be86ddde176db6ac0ad8c272a5/powerbi-sales-analysis_Task-4/Screenshots/Product%20Performance.png)
+
+### Time Based Trends
+![Time Based Trends](https://github.com/xpatilakshay/powerbi-sales-analysis/blob/eba5073120c0a9be86ddde176db6ac0ad8c272a5/powerbi-sales-analysis_Task-4/Screenshots/Time%20Based%20Trends.png)
 
 ---
 
